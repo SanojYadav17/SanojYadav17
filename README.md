@@ -1,32 +1,62 @@
 <h1 align="center">Hi 👋, I'm Sanoj Yadav</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Java & DSA Enthusiast</h3>
+<h3 align="center">🚀 Blockchain & Full Stack Developer | Java & DSA Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Babu Banarasi Das University, Lucknow
-* 💻 Currently learning **Java & Data Structures**
-* 🔥 Passionate about coding & problem solving
-* 🎯 Goal: Become a Software Developer
+* 🎓 B.Tech CSE (IoT & Blockchain) – BBD University, Lucknow
+* 💻 Skilled in **Java, DSA, Full Stack & Blockchain Development**
+* 🔥 Built real-world **Web3 & AI projects**
+* 🎯 Goal: Software Developer / Backend Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,solidity,react,nodejs,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 📂 Projects
+## 💼 Featured Projects
 
-* 🔹 <a href="https://github.com/SanojYadav17/Java">Java Learning Repository</a>
-  ➤ Covers loops, operators, conditionals and basic problem solving
+### 🔹 <a href="https://votingmarket.vercel.app/">DApp Voting System</a>
 
-* 🔹 <a href="https://github.com/SanojYadav17/Secure-Data-Hiding-in-Image-Using-Steganography">Steganography Project</a>
-  ➤ Hides secret data inside images using encryption techniques
+* Built using **Solidity + React + Ethereum**
+* Secure & transparent voting with smart contracts
+* Real-time result tracking
+
+---
+
+### 🔹 <a href="https://tweeter-dapp.vercel.app/">Tweeter – Web3 Social Media</a>
+
+* Decentralized Twitter-like platform
+* Features: Post, Like, Follow, Messaging
+* Wallet-based authentication (MetaMask)
+
+---
+
+### 🔹 <a href="https://github.com/SanojYadav17/Financial-Time-Machine">Financial Time Machine</a>
+
+* AI-based financial prediction system
+* Scenario modeling + data visualization
+
+---
+
+### 🔹 <a href="https://github.com/SanojYadav17/Recipe-meal-planner">Recipe Meal Planner</a>
+
+* NLP-based recommendation system
+* Generates personalized meal plans
+
+---
+
+## 🏆 Experience
+
+* 🚀 Hackathon Developer – Built NFT Marketplace (24 hrs)
+* 🤖 AI Recommendation Engine (Hackathon Project)
+* ⚙️ Arduino IoT System (Exhibition Project)
 
 ---
 
@@ -44,8 +74,8 @@
 
 ## 📫 Connect With Me
 
-* 🔗 <a href="https://www.linkedin.com/">LinkedIn</a>
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 🔗 <a href="https://www.linkedin.com/in/yadavsanoj">LinkedIn</a>
+* 📧 [sanojyadav2700@gmail.com](mailto:sanojyadav2700@gmail.com)
 
 ---
 
