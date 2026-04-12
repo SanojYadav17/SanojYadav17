@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sanoj Yadav</h1>
-<h3 align="center">Aspiring Software Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Aspiring Software Developer | Java & DSA Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Babu Banarasi Das University, Lucknow
-* 💻 Currently learning **Java & DSA**
+* 💻 Currently learning **Java & Data Structures**
 * 🔥 Passionate about coding & problem solving
-* 🚀 Goal: Become a Software Developer
+* 🎯 Goal: Become a Software Developer
 
 ---
 
@@ -22,8 +22,11 @@
 
 ## 📂 Projects
 
-* 🔹 Java Learning Repository
-* 🔹 Steganography Project
+* 🔹 <a href="https://github.com/SanojYadav17/Java">Java Learning Repository</a>
+  ➤ Covers loops, operators, conditionals and basic problem solving
+
+* 🔹 <a href="https://github.com/SanojYadav17/Secure-Data-Hiding-in-Image-Using-Steganography">Steganography Project</a>
+  ➤ Hides secret data inside images using encryption techniques
 
 ---
 
@@ -41,9 +44,9 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn (add later)
-* Email (optional)
+* 🔗 <a href="https://www.linkedin.com/">LinkedIn</a>
+* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
 
 ---
 
-⭐ From [SanojYadav17](https://github.com/SanojYadav17)
+⭐ From <a href="https://github.com/SanojYadav17">SanojYadav17</a>
