@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanoj Yadav</h1>
 <h3 align="center">🚀 Blockchain & Full Stack Developer | Java & DSA Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanojYadav17&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -15,7 +19,17 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,solidity,react,nodejs,mongodb,mysql,git,github,vscode" />
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://soliditylang.org"><img src="https://skillicons.dev/icons?i=solidity" /></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
 ---
@@ -25,7 +39,7 @@
 ### 🔹 <a href="https://votingmarket.vercel.app/">DApp Voting System</a>
 
 * Built using **Solidity + React + Ethereum**
-* Secure & transparent voting with smart contracts
+* Secure & transparent voting system
 * Real-time result tracking
 
 ---
