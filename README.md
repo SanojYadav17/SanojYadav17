@@ -37,7 +37,7 @@
   <a href="https://ethereum.org"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="32" alt="Ethereum"/></a>
   <a href="https://docs.ethers.org"><img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" height="32" alt="Ethers"/></a>
   <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="32" alt="MongoDB"/></a>
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="32" alt="MySQL"/></a>
+  <a href="https://mysql.com"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="32" alt="MySQL"/></a>
   <a href="https://www.arduino.cc"><img src="https://img.shields.io/badge/Arduino_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="32" alt="Arduino"/></a>
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32" alt="Git"/></a>
 </div>
@@ -112,7 +112,7 @@
 
 ###
 
-<img align="right" height="190" src="https://gifdb.com/images/high/psychedelic-black-cat-2mab8hlmxlus93qi.webp" alt="Animated Graphic" />
+<img align="right" height="190" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" alt="Coding Cat" />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/yadavsanoj" target="_blank">
@@ -138,7 +138,11 @@
 <h2 align="left">🐍 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SanojYadav17/SanojYadav17/output/snake.svg" alt="Snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanojYadav17/SanojYadav17/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanojYadav17/SanojYadav17/output/snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/SanojYadav17/SanojYadav17/output/snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ###
