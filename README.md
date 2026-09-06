@@ -1,180 +1,157 @@
-<div align="center">
-  <h1>Hi 👋, I'm Sanoj Yadav</h1>
-  <p><b>Full-Stack Engineer | Web3 & Smart Contracts | Java Backend</b></p>
+<h1 align="left">Hi 👋, I'm Sanoj Yadav</h1>
 
-  <p>
-    <a href="https://linkedin.com/in/yadavsanoj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:sanojyadav2700@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-00C7B7?style=for-the-badge" alt="Status"/>
-  </p>
+###
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=SanojYadav17&label=Profile%20Views&color=007ec6&style=flat-square" alt="Profile Views"/>
-  </p>
-</div>
+<h3 align="left">🚀 Blockchain & Full-Stack Developer | Java Backend & DSA Enthusiast</h3>
 
----
+#### 🎓 B.Tech CSE (IoT & Blockchain) at Babu Banarasi Das University, Lucknow (2023–2027)[cite: 3]
+#### 💻 Architecting scalable MERN architectures, RESTful APIs, and decentralized Web3 protocols[cite: 2, 3]
+#### 🎯 Mission: To engineer production-ready, gas-optimized decentralized systems and scalable AI-powered platforms[cite: 1, 3]
 
-### 👨‍💻 About Me
-
-* 🎓 **B.Tech CSE (IoT & Blockchain)** at Babu Banarasi Das University, Lucknow (2023–2027) | **CGPA: 8.04**[cite: 3].
-* 💼 **Full-Stack & Backend Developer** experienced in production-grade MERN architecture, REST APIs, and JWT authentication[cite: 2].
-* ⛓️ **Web3 & Blockchain Builder**: Deployed EVM-compatible dApps on Ethereum Holesky with modular Solidity contracts, IPFS/Pinata, and MetaMask[cite: 3].
-* 🤖 **AI Implementer**: Integrated Google Gemini AI and Genkit for automated document analysis and digital asset generation[cite: 2].
-* ⚙️ **IoT & Low-Level Programmer**: Built micro-controller systems and sensor interfaces using Embedded C/C++ on Arduino Uno[cite: 4].
-
----
-
-### 🛠️ Tech Stack
+###
 
 <div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `Java` `JavaScript (ES6+)` `Solidity` `Python` `Embedded C/C++`[cite: 4] |
-| **Frontend** | `React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS`[cite: 2] |
-| **Backend & APIs** | `Node.js` `Express.js` `RESTful APIs` `JWT Authentication` `Ethers.js`[cite: 2, 3] |
-| **Web3 & Blockchain** | `Ethereum` `Smart Contracts` `ERC-721/1155` `Hardhat` `Remix IDE` `IPFS`[cite: 1, 3] |
-| **IoT & Embedded** | `Arduino Uno` `Ultrasonic (HC-SR04)` `Biometric Modules` `Microcontrollers`[cite: 4] |
-| **Databases & Cloud** | `MongoDB` `MySQL` `Firebase` `AWS` `Cloudinary CDN`[cite: 2, 3] |
-| **Developer Tools** | `Git` `GitHub` `Postman` `VS Code` `IntelliJ IDEA` `Arduino IDE`[cite: 4] |
-
+  <img src="https://streak-stats.demolab.com?user=SanojYadav17&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=8" height="160" alt="Sanoj's GitHub Streak" />
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,solidity,py,c,react,nextjs,nodejs,express,mongodb,mysql,git,github,postman,idea,vscode,arduino,aws" alt="Tech Stack Icons" />
-</p>
+###
 
----
+<h2 align="left">💻 Tech Stack</h2>
 
-### 🚀 Featured Deployments & Projects
+<div align="left">
+  <!-- Languages -->
+  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32" alt="Java"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32" alt="JavaScript"/></a>
+  <a href="https://soliditylang.org"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" height="32" alt="Solidity"/></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32" alt="Python"/></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32" alt="C++"/></a>
+  <br/><br/>
+  <!-- Frontend & Backend -->
+  <a href="https://react.dev"><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" alt="React"/></a>
+  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32" alt="Next.js"/></a>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="32" alt="Node.js"/></a>
+  <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="32" alt="Express.js"/></a>
+  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="32" alt="Tailwind"/></a>
+  <br/><br/>
+  <!-- Web3, DB & Tools -->
+  <a href="https://ethereum.org"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="32" alt="Ethereum"/></a>
+  <a href="https://docs.ethers.org"><img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" height="32" alt="Ethers"/></a>
+  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="32" alt="MongoDB"/></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="32" alt="MySQL"/></a>
+  <a href="https://www.arduino.cc"><img src="https://img.shields.io/badge/Arduino_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="32" alt="Arduino"/></a>
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32" alt="Git"/></a>
+</div>
+
+###
+
+<h2 align="left">🚀 Featured Deployments</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🗳️ VoteNiti — Decentralized Voting Protocol</h3>
-      <p align="center">
-        <a href="https://voteniti.vercel.app/"><b>[Live Demo]</b></a>
-      </p>
+      <h4>🗳️ <a href="https://voteniti.vercel.app/">VoteNiti — Decentralized Voting Protocol</a></h4>
       <ul>
-        <li>Multi-tier decentralized governance protocol deployed on <b>Ethereum Holesky Testnet</b>[cite: 3].</li>
-        <li>Executed <b>215+ on-chain transactions</b> with zero contract reverts across 3 modular Solidity contracts (Voting, ERC20, Marketplace)[cite: 3].</li>
-        <li>4 role-based dashboards (Admin, Voter, Candidate, Election Commission) with MetaMask signature verification[cite: 2, 3].</li>
-        <li><b>Stack:</b> Solidity, React, Node.js, Express, MongoDB, Pinata IPFS[cite: 2, 3].</li>
+        <li>Holesky Testnet deployed; <b>215+ on-chain transactions</b> executed without contract reverts[cite: 3].</li>
+        <li>4 role-based dashboards (Admin, Voter, Candidate, Commission) with MetaMask ECDSA validation[cite: 2, 3].</li>
+        <li><b>Tech:</b> Solidity, React 18, Node.js, Express, MongoDB, Pinata IPFS[cite: 2, 3].</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🐦 Tweeter — Web3 Decentralized Social DApp</h3>
-      <p align="center">
-        <a href="https://tweeter-dapp.vercel.app/"><b>[Live Demo]</b></a>
-      </p>
+      <h4>🐦 <a href="https://tweeter-dapp.vercel.app/">Tweeter — Web3 Social Platform</a></h4>
       <ul>
-        <li>Censorship-resistant platform with 100% on-chain social graphs using gas-optimized nested mappings[cite: 3].</li>
-        <li>Peer-to-peer messaging using Ethers.js v6 event indexing and gasless signatures[cite: 3].</li>
-        <li>Custom client-side media editor with Cloudinary CDN caching, reducing initial page load times by 40%+[cite: 2, 3].</li>
-        <li><b>Stack:</b> Solidity, React, Ethers.js, Cloudinary, LocalStorage[cite: 2, 3].</li>
+        <li>100% on-chain social graphs using gas-optimized nested Solidity mapping[cite: 3].</li>
+        <li>P2P messaging via client-side Ethers.js v6 events with zero centralized logging[cite: 3].</li>
+        <li>Cloudinary CDN caching reducing asset load times by <b>40%+</b>[cite: 2, 3].</li>
+        <li><b>Tech:</b> Solidity, React, Ethers.js, Cloudinary[cite: 2, 3].</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📄 Resume Builder AI</h3>
-      <p align="center">
-        <a href="https://resumeexpert-kappa.vercel.app"><b>[Live Demo]</b></a>
-      </p>
+      <h4>📄 <a href="https://resumeexpert-kappa.vercel.app">Resume Builder AI</a></h4>
       <ul>
-        <li>Production MERN career platform integrated with <b>Google Gemini AI</b>[cite: 2].</li>
-        <li>Automated ATS resume scoring, keyword matching, cover letter generation, and interview preparation workflows[cite: 2].</li>
-        <li>Developed during the 90-hour intensive full-stack development program at GRAStech[cite: 2].</li>
-        <li><b>Stack:</b> React.js, Node.js, Express.js, MongoDB, Gemini API[cite: 2].</li>
+        <li>Integrated with <b>Google Gemini AI</b> for automated ATS resume scoring and keyword extraction[cite: 2].</li>
+        <li>Generates tailored cover letters and job match analysis in real-time[cite: 2].</li>
+        <li>Built during the 90-hr MERN training program at <b>GRAStech</b>[cite: 2].</li>
+        <li><b>Tech:</b> React.js, Node.js, Express, MongoDB, Gemini API[cite: 2].</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 EpicMint — Web3 NFT Marketplace</h3>
-      <p align="center">
-        <a href="https://epicmintminor.vercel.app/"><b>[Live Demo]</b></a>
-      </p>
+      <h4>🎨 <a href="https://epicmintminor.vercel.app/">EpicMint — Web3 NFT Marketplace</a></h4>
       <ul>
-        <li>Built during the 24-hour GenIgnite Hackathon in Ghaziabad[cite: 1, 2].</li>
-        <li>AI-generated digital asset pipeline using <b>Next.js</b> and <b>Google Genkit AI</b>[cite: 2].</li>
-        <li>Implemented decentralized storage, on-chain provenance, and automated royalties (ERC-721 / EIP-2981)[cite: 1, 2].</li>
-        <li><b>Stack:</b> Next.js, Solidity, Ethers.js, Firebase, Genkit AI[cite: 2].</li>
+        <li>Built in 24 hours at the <b>GenIgnite Hackathon</b>[cite: 1, 2].</li>
+        <li>AI digital asset generator built using <b>Next.js</b> and <b>Google Genkit AI</b>[cite: 2].</li>
+        <li>ERC-721/EIP-2981 royalty standards and IPFS decentralized asset pinning[cite: 1, 2].</li>
+        <li><b>Tech:</b> Next.js, Solidity, Ethers.js, Firebase, Genkit AI[cite: 2].</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">👁️ Third Eye for Blind Person</h3>
-      <p align="center">
-        <a href="https://github.com/SanojYadav17/Third-Eye-for-Blind-Person"><b>[GitHub Repo]</b></a>
-      </p>
+      <h4>👁️ <a href="https://github.com/SanojYadav17/Third-Eye-for-Blind-Person">Third Eye for Blind Person</a></h4>
       <ul>
-        <li>Wearable assistive navigation device for visually impaired individuals[cite: 4].</li>
-        <li>Interfaced ultrasonic sensors (HC-SR04) with Arduino Uno for continuous distance mapping[cite: 4].</li>
-        <li>Real-time multi-sensory alerting system utilizing vibration motors, buzzers, and LED indicators[cite: 4].</li>
-        <li><b>Stack:</b> Embedded C/C++, Arduino Uno, Sensor Interfacing[cite: 4].</li>
+        <li>Assistive IoT device built using ultrasonic sensors and Arduino Uno[cite: 4].</li>
+        <li>Real-time distance estimation providing haptic buzzer/vibration alerts[cite: 4].</li>
+        <li><b>Tech:</b> Embedded C/C++, Arduino Uno, HC-SR04[cite: 4].</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔐 Smart Biometric Attendance System</h3>
-      <p align="center">
-        <b>[Hardware Prototype]</b>
-      </p>
+      <h4>🔐 Smart Biometric Attendance System</h4>
       <ul>
-        <li>Secure authentication gateway utilizing optical fingerprint recognition[cite: 4].</li>
-        <li>Engineered low-level embedded firmware for user enrollment, matching templates, and verification logging[cite: 4].</li>
-        <li>Microcontroller-based validation system for tamper-resistant attendance pipelines[cite: 4].</li>
-        <li><b>Stack:</b> Arduino, Optical Fingerprint Sensor, Embedded Firmware[cite: 4].</li>
+        <li>Hardware prototype featuring optical fingerprint authentication[cite: 4].</li>
+        <li>Custom firmware for template enrollment and secure verification[cite: 4].</li>
+        <li><b>Tech:</b> Arduino, Optical Biometric Sensor, Embedded C[cite: 4].</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+###
 
-### 💼 Experience & Achievements
+<h2 align="left">⚡ Connect with Me 📩✨</h2>
 
-* 💼 **Full Stack Development Trainee** — *GRAStech* (Jun 2026 – Aug 2026): Architected MERN applications, secure JWT authentication flows, and REST endpoints[cite: 2].
-* 🤖 **Generative AI Intern** — *IBM SkillsBuild* (Feb 2026 – Mar 2026): Hands-on design and implementation of LLM workflows, prompt architectures, and responsible AI practices[cite: 1].
-* 🏆 **Hackathon Finalist** — *GenIgnite Hackathon* & *InnVedX Code Hackathon Final Round*[cite: 1, 2].
+###
 
----
+<img align="right" height="190" src="https://gifdb.com/images/high/psychedelic-black-cat-2mab8hlmxlus93qi.webp" alt="Animated Graphic" />
 
-### 📜 Key Certifications
+<div align="left">
+  <a href="https://www.linkedin.com/in/yadavsanoj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sanojyadav2700@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Gmail" />
+  </a>
+  <a href="https://github.com/SanojYadav17" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="GitHub" />
+  </a>
+  <a href="https://votingmarket.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="Portfolio" />
+  </a>
+</div>
 
-* ⛓️ **Advanced Blockchain & Smart Contract Development** — *Code Eater*[cite: 2]
-* 🤖 **Generative AI (Virtual Internship via FSP)** — *IBM*[cite: 2]
-* ☕ **Data Structures & Algorithms in Java** — *Apna College*[cite: 2]
-* 📊 **Data Science & Analytics** — *IIT Masai*[cite: 2]
-* 🌐 **Full-Stack Web Development** — *IBM*[cite: 2]
+###
 
----
+<br clear="both">
 
-### 🐍 Contribution Activity
+###
+
+<h2 align="left">🐍 Contribution Graph</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanojYadav17/SanojYadav17/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanojYadav17/SanojYadav17/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/SanojYadav17/SanojYadav17/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/SanojYadav17/SanojYadav17/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanojYadav17&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&title_color=00c7b7&icon_color=00c7b7" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanojYadav17&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&title_color=00c7b7" width="48%" alt="Top Languages" />
 </div>
 
 ---
 
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanojYadav17&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c7b7&text_color=9ca3af&icon_color=00c7b7&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanojYadav17&theme=tokyonight&hide_border=true&stroke=00c7b7&ring=00c7b7&fire=00c7b7&background=0d1117" alt="GitHub Streak" width="48%"/>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanojYadav17&layout=compact&theme=tokyonight&hide_border=true&title_color=00c7b7&text_color=9ca3af&bg_color=0d1117" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-  <sub>Built by <a href="https://github.com/SanojYadav17"><b>Sanoj Yadav</b></a> • Powered by curiosity, coffee, and clean commits.</sub>
+  <sub>Designed & Developed by <a href="https://github.com/SanojYadav17"><b>Sanoj Yadav</b></a> 🚀</sub>
 </div>
